@@ -1,0 +1,17 @@
+@media (max-width: 768px) {
+  .nav-links {
+    display: none;
+  }
+
+  .grid-2 {
+    grid-template-columns: 1fr;
+  }
+
+  .hero {
+    padding: 3rem 0 2rem;
+  }
+
+  .section {
+    padding: 2.5rem 0;
+  }
+}
